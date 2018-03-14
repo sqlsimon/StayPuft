@@ -1039,7 +1039,7 @@ main
     margin: 0;
 }
 
-.post.page {
+.post.page-template {
     margin-bottom: calc(40px + 4rem);
 }
 
