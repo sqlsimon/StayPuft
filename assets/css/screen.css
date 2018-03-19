@@ -522,7 +522,7 @@ button {
 /* The details of your blog. Defined in ghost/settings/ */
 .blog-title {
     margin: 0 0 10px 0;
-    color: white;
+    color: black;
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
     text-shadow: 0 1px 6px rgba(0,0,0,0.1);
@@ -530,12 +530,12 @@ button {
 }
 
 .blog-title a {
-    color: white;
+    color: black;
     text-decoration: none;
 }
 
 .blog-description {
-    color: #BBC4C9;
+    color: #ffffff;
     font-size: 1.8rem;
     line-height: 1.3em;
     font-weight: 300;
@@ -662,7 +662,7 @@ button {
     left: 0px;
     width: 320px;
     z-index: 100;
-    background-color: #22313F;
+    background-color: #3366cc;
     overflow-y: hidden;
 }
 
@@ -1461,11 +1461,11 @@ main
     font-family: 'Open Sans', sans-serif;
     font-size: 1.3rem;
     line-height: 1.7em;
-    color: #BBC4C9;
+    color: white;
 }
 
 .site-footer a {
-    color: #BBC4C9;
+    color: white;
 }
 
 .site-footer a:hover {
