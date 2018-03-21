@@ -485,8 +485,8 @@ button {
 /* Yo-logo. Yolo-go. Upload one in ghost/settings/ */
 .blog-logo img {
     display: block;
-    width: 100%;
-    height: auto;
+    width: 60%;
+    height: auto; 
     margin: 1em auto 1em auto;
     -webkit-backface-visibility:hidden;
     -ms-backface-visibility:hidden;
